@@ -1,0 +1,19 @@
+name: UPEI VRE Drupal Theme
+type: theme
+description: 'UPEI VRE Drupal Theme'
+version: 1.0
+core: 8.x
+base theme: stable
+
+libraries:
+    - upei_vre_d8/global
+
+regions:
+  menus: Menus
+  search: Search
+  header: Header
+  breadcrumb: Breadcrumb
+  help: Help
+  content: Content
+  sidebar: Sidebar
+  footer: Footer

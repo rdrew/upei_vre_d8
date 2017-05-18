@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+browser-sync start --proxy 'cshr.local' --serveStatic 'dist/assets/css' --files 'dist/assets/css'

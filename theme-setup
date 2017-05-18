@@ -12,7 +12,7 @@ read themeNameD
 #make backup dir
 mkdir bkup
 #backup files
-cp d8f6_advanced.* bkup
+cp upei_vre_d8.* bkup
 echo "created bkup dir"
 
 #rename the files
